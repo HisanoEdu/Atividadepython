@@ -1,0 +1,5 @@
+#faça um programa que receba uma temperatrura e transforme de fahrenheit para celsius. C=(5/9) * (F-32) casas decimais
+
+print("Digite a temeperatura em Fahrenheit")
+print(fah)
+
