@@ -49,5 +49,6 @@ linguagem= "Python"
 f"programação em {linguagem}"
 print(f"Programação em {linguagem}")
 
-
+print("Quual é o seu nome?")
+print(nome)
 
