@@ -59,3 +59,4 @@ print(uma_lista[0:6])
 
 
 
+
